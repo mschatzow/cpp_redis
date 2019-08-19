@@ -1,4 +1,4 @@
 [submodule "tacopie"]
 	path = tacopie
-	url = https://github.com/Cylix/tacopie.git
+	url = https://github.com/mschatzow/tacopie.git
 	branch  = master
